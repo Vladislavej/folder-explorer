@@ -3,6 +3,8 @@
 
 This is a simple command-line application written in C# I made for a job interview, that takes a single input - a path to a folder. The application then reads information about the specified folder, including all files and nested folders, and saves this information in the following format:
 
+![FolderExplorer(Image URL](https://github.com/Vladislavej/folder-explorer/blob/master/Folder%20Explorer.png)
+
 - For each folder, it saves its name, a list of all files, and a list of all nested folders it contains.
 - For each file, it saves its name and extension.
 
